@@ -1,5 +1,3 @@
-# hand-distance-measurement-with-webcam
-
 # Pengukuran Jarak Tangan Menggunakan Python
 
 Proyek ini menunjukkan cara mengukur jarak antara dua titik spesifik pada tangan secara real-time menggunakan webcam. Proyek ini memanfaatkan beberapa library Python termasuk OpenCV untuk pemrosesan gambar, HandTrackingModule dari `cvzone` untuk deteksi tangan, NumPy untuk perhitungan numerik, dan Math untuk perhitungan jarak.
